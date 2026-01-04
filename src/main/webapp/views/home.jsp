@@ -61,7 +61,7 @@
 			<div class="card">
 				<div class="card-body text-center">
 
-					<a href="/addjob" class="btn btn-primary">Add Job</a>
+					<a href="/JobApp/addjob" class="btn btn-primary">Add Job</a>
 
 				</div>
 			</div>
