@@ -49,7 +49,7 @@
 				<div class="card-body">
 					<h2 class="mb-3 text-center fs-3 font-weight-bold">Post a
 						new Job</h2>
-					<form action="handleForm" method="post">
+					<form action="/JobApp/handleForm" method="post">
 						<div class="mb-1">
 							<label for="postId" class="form-label">Post ID</label>
 							<input type="text" class="form-control" id="postId"

@@ -31,10 +31,10 @@
 		<div class="collapse navbar-collapse" id="navbarNav">
 			<ul class="navbar-nav ms-auto">
 				<li class="nav-item">
-					<a class="nav-link" href="home">Home</a>
+					<a class="nav-link" href="/JobApp/home">Home</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="viewalljobs">All Jobs</a>
+					<a class="nav-link" href="/JobApp/viewalljobs">All Jobs</a>
 				</li>
 
 				<li class="nav-item">
